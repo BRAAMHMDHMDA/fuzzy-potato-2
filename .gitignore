@@ -1,3 +1,4 @@
-.env
+asd.env
 *.key
 /node_modules
+asd
